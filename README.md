@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hanumanth Praneeth Palaparthi
 
 🎯 **Technical Support Engineer | Cybersecurity Enthusiast | IT Systems Expert**  
-📍 Based in Ajax, Ontario | 🇨🇦 Open to Canada-wide Remote or Hybrid Roles
+📍 Based in Ajax, Ontario | Permanent Resident | Open to Canada-wide Remote or Hybrid Roles
 
 ---
 
@@ -47,7 +47,7 @@ Docker, Git, Syslog, Cron, Log Rotation, Splunk, Graylog, UFW/IPTables
 ---
 
 ## 📄 Resume & Credentials
-  
+  Resume
 🎓 **Certifications**: CCNA, Ethical Hacking Complete Course(2024), Microsoft 365 Fundamentals, Penetration Testing Professional Certification  
 📚 Ongoing: Azure Security, Python for SOC Analysts
 
@@ -56,7 +56,7 @@ Docker, Git, Syslog, Cron, Log Rotation, Splunk, Graylog, UFW/IPTables
 ## 📫 Let's Connect
 
 - 📧 Email: hanumanthpraneeth12@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/hanumanth-praneeth-palaparthi)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hanumanth-praneeth-palaparthi)
 
 ---
 
