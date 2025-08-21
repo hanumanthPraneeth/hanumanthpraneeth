@@ -3,7 +3,7 @@
 📧 **Email:** hanumanthpraneeth12@gmail.com  
 📱 **Phone:** +1 365-275-8987  
 📍 **Location:** Ontario, Canada  
-🔗 **LinkedIn:** [Hanumanth Praneeth P](https://linkedin.com/in/hanumanth-praneeth-p)  
+🔗 **LinkedIn:** [Hanumanth Praneeth P](https://www.linkedin.com/in/hanumanth-praneeth-palaparthi)  
 📄 **Research Paper:** *SafeLink*  
 
 ---
