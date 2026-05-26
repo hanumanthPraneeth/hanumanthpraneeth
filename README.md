@@ -1,10 +1,10 @@
 # Hanumanth Praneeth Palaparthi
 
-📧 **Email:** hanumanthpraneeth12@gmail.com  
+📧 **Email:** hp.palaparthi@gmail.com  
 📱 **Phone:** +1 365-275-8987  
 📍 **Location:** Ontario, Canada  
-🔗 **LinkedIn:** [Hanumanth Praneeth P](https://www.linkedin.com/in/hanumanth-praneeth-palaparthi)  
-📄 **Research Paper:** *SafeLink*  
+🔗 **LinkedIn:** [Hanumanth Praneeth P](https://www.linkedin.com/in/hanumanth-praneeth)  
+📄 **Research Paper:** *SafeLink :  A Default OS-Level Sandboxed Link Opener*  
 
 ---
 
