@@ -64,8 +64,23 @@ Published author in cybersecurity research: *"SafeLink: A Default OS-Level Sandb
 
 ## **PROFESSIONAL EXPERIENCE**
 
-### **Technical Support** | Computenext  
-*01/2018 – 03/2023*  
+### **Tech Sales Associate** | Staples Canada, Ajax, ON
+*10/2025 - Present*
+- Diagnose complex network and hardware vulnerabilities, applying foundational cybersecurity principles to secure
+end-user environments.
+- Monitor local network configurations and implement immediate containment strategies for unauthorized access
+or misconfigurations.
+- Provide clear, effective communication to stakeholders regarding security best practices and technical
+procedures.
+
+### **System Specialist** | H&M, Ajax, ON  
+*03/2024 – 05/2025*
+- Managed **inventory tracking** using RFID scanners and automated field bots.  
+- Conducted quality checks and enforced safety procedures.  
+- Coordinated unloading, stock organization, and workflow optimization.
+
+### **Software Engineer/ System Specialist** | Computenext  
+*01/2018 – 07/2023*  
 **Key Responsibilities & Achievements:**
 - Delivered first-line and escalated technical support for 150+ local and remote users across Windows, macOS, and Linux platforms.  
 - Performed both **on-site and remote troubleshooting**, resolving hardware, software, and connectivity issues promptly.  
@@ -86,12 +101,6 @@ Published author in cybersecurity research: *"SafeLink: A Default OS-Level Sandb
 - Directed daily store operations, including staff scheduling, inventory management, and cash handling.  
 - Delivered exceptional customer service and ensured compliance with **quality, safety, and hygiene standards**.  
 - Led training and motivation programs for staff to improve performance metrics.
-
-### **Associate** | H&M, Ajax, ON  
-*06/2024 – 04/2025*
-- Managed **inventory tracking** using RFID scanners and automated field bots.  
-- Conducted quality checks and enforced safety procedures.  
-- Coordinated unloading, stock organization, and workflow optimization.
 
 ---
 
